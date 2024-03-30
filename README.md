@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaoVicy
 - 👀 I’m interested in learn more
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning database
 - 💞️ I’m looking to collaborate on help
 - 📫 How to reach me ()
 
