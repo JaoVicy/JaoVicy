@@ -8,7 +8,7 @@
 🛠️ Buscando sempre novas oportunidades para colaborar em projetos interessantes e desafiadores;  
 📫 Como me encontrar: https://www.linkedin.com/in/joão-víctor-benetti-f-09b500295/
 
-### 🔧 Tecnologias & Ferramentas 
+### 🔧 Tecnologias & Ferramentas: 
 
 ### 💻 Linguagens:  
 Frontend geral;  
