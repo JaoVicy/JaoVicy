@@ -8,8 +8,9 @@
 🛠️ Buscando sempre novas oportunidades para colaborar em projetos interessantes e desafiadores;  
 📫 Como me encontrar: https://www.linkedin.com/in/joão-víctor-benetti-f-09b500295/
 
-### 🔧 Tecnologias & Ferramentas  
-Linguagens:  
+### 🔧 Tecnologias & Ferramentas 
+
+### 💻 Linguagens:  
 Frontend geral;  
 Java;  
 Python especializado na analise de dados;  
