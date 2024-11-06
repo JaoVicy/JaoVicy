@@ -17,12 +17,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JaoVicy/JaoVicy/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -63,6 +57,8 @@
 
 ###
 
-<img align="right" height="150" src="https://giffiles.alphacoders.com/220/220235.gif"  />
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/1f/3c/e3/1f3ce3f2fb77aeb542d616158e3b40a7.gif"  />
+</div>
 
 ###
