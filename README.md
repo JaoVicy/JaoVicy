@@ -1,18 +1,9 @@
-<h2 align="left">Olá! Eu sou o João👋<br><br>Seja bem-vindo ao meu perfil no GitHub!</h2>
-
-###
-
-<p align="left">🧑‍💻 Sobre mim:<br><br>🎓 Estudante de Engenharia de Software - Unijuí;<br>🌱 Atualmente estou focando no aprendizado de análize de dados em python;<br>💡 Apaixonado por desenvolvimento web, ciência de dados e backend geral;<br>🛠️ Buscando sempre novas oportunidades para colaborar em projetos interessantes e desafiadores;</p>
-
-###
-
-<p align="left">🛠️ Ferramentas:<br><br>VSCode;<br>Figma;<br>NetBeans;<br>Google Colab;<br>PostgreSQL;<br>MySQL Workbench;<br>GitHub;</p>
-
-###
+<h2 align="center">Olá! Eu sou o João👋<br><br>Seja bem-vindo ao meu perfil no GitHub!</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaoVicy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JaoVicy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaoVicy&theme=github_dark" alt="Top languages by repo badge"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JaoVicy&theme=github_dark" alt="Top languages by commit badge"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaoVicy&theme=github_dark" alt="Profile details badge"/>
 </div>
 
 ###
