@@ -7,6 +7,7 @@
 - 💡 Currently improving skills in **Modern Python**, **Rest-framework**, and **UIkit**
 - 📬 Contact: [filipimjoa@gmail.com](mailto:filipimjoa@gmail.com)
 
+## ⚙️ Skills
 <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaoVicy&theme=github_dark" alt="Top languages by repo badge"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JaoVicy&theme=github_dark" alt="Top languages by commit badge"/>
