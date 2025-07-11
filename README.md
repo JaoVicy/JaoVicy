@@ -8,6 +8,15 @@
 - 📬 Contact: [filipimjoa@gmail.com](mailto:filipimjoa@gmail.com)
 
 ## ⚙️ Skills
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,py,django,swift,apple,bootstrap,react,vue" />
+  </a>
+</p>
+
+
 <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaoVicy&theme=github_dark" alt="Top languages by repo badge"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JaoVicy&theme=github_dark" alt="Top languages by commit badge"/>
