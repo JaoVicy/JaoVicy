@@ -18,7 +18,9 @@
 
 ## 📱 Social
 
-
+[![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vic_benetti_f/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)](https://hub.docker.com/repositories/joaovicbf)
+[![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/JaoVicyy)
 
 <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaoVicy&theme=github_dark" alt="Top languages by repo badge"/>
