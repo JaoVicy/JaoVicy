@@ -1,4 +1,4 @@
-<h2>Hi! I'm João👋<br><br>Seja bem-vindo ao meu perfil no GitHub!</h2>
+<h2>Hi! I'm João👋<br><br>Welcome to my GitHub Profile! 🪡</h2>
 
 ## 🚀 About Me
 
