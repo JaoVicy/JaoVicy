@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,py,django,swift,apple,bootstrap,react,vue,less,gulp,typescript" />
+    <img src="https://skillicons.dev/icons?i=git,docker,py,django,golang,swift,bootstrap,vue,typescript" />
   </a>
 </p>
 
